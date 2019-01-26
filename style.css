@@ -1,0 +1,561 @@
+/*	Open Market Website
+	style.css
+	Style sheet for Open Market website
+*/
+
+body {
+  background: url('pix/OpenMarket.png') no-repeat;
+  background-size: cover;
+  font-family: Arial;
+  color: white;
+}
+
+/* mini logo header */
+#miniLogo {
+  position: absolute;
+	float: left;
+	height: 150px;
+	width: 150px;
+}
+
+/* index.html */
+#logo {
+	position: absolute;
+	float: left;
+	width: 300px;
+	opacity: .6;
+  left: 40%;
+  top: 50%;
+}
+
+p {
+	color: white;
+	font-size: 14pt;
+}
+
+.titleLogo {
+	position: relative;
+	float: left;
+	left: 35%;
+	margin: auto;
+	min-width: 300px;
+	padding: 80px;
+	text-align: center;
+	width: 300px;
+}
+
+/* Navigation Bar */
+.menu {
+  position: absolute;
+  float: left;
+  width: 100%;
+  left: 20%;
+  max-width: 100%;
+  min-width: 100%;
+  top: 65%;
+}
+
+.menu ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+.menu ul li {
+	float: left;
+	width: 180px;
+	height: 40px;
+	background-color: black;
+	opacity: .8;
+	line-height: 40px;
+	margin-left: 15px;
+	margin-right: 3px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.menu ul li a {
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+
+.menu ul li a:hover {
+	background-color: green;
+}
+
+.menu ul li ul li {
+	display: none;
+}
+
+.menu ul li:hover ul li {
+	display: block;
+}
+
+/* Navigation Bar non-Home pages*/
+.catMenu {
+  position: absolute;
+  float: left;
+  width: 100%;
+  left: 20%;
+  max-width: 100%;
+  min-width: 100%;
+  top: 5%;
+}
+
+.catMenu ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+.catMenu ul li {
+	float: left;
+	width: 180px;
+	height: 40px;
+	background-color: black;
+	opacity: .8;
+	line-height: 40px;
+	margin-left: 15px;
+	margin-right: 3px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.catMenu ul li a {
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+
+.catMenu ul li a:hover {
+	background-color: green;
+}
+
+.catMenu ul li ul li {
+	display: none;
+}
+
+.catMenu ul li:hover ul li {
+	display: block;
+}
+
+/* login.html */
+.login-box {
+  width: 320px;
+  height: 420px;
+  background: rgba(0,0,0,.5);
+  color: #fff;
+  top: 60%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+  padding: 70px 30px;
+}
+
+.loginLogo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: absolute;
+  top: -50px;
+  left: calc(50% - 50px);
+}
+
+h1 {
+  margin: 0;
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 22px;
+	color: #d5d8dc;
+}
+
+.login-box p {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+
+.login-box input {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.login-box input[type="text"],input[type="password"] {
+  border: none;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+}
+
+.login-box input[type="submit"] {
+  border: none;
+  border-radius: 20px;
+  outline: none;
+  height: 40px;
+  background: #2874a6;
+  color: #fff;
+  font-size: 18px;
+}
+
+.login-box input[type="submit"]:hover {
+  cursor: pointer;
+  background: #39dc79;
+  color: #000;
+}
+
+.login-box a {
+  color: #fff;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.login-box a:hover {
+  color: #39dc79;
+}
+
+/* create login page */
+.createLogin-box {
+  width: 320px;
+  height: 460px;
+  background: rgba(0,0,0,.5);
+  color: #fff;
+  top: 63.1%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+  padding: 70px 30px;
+}
+
+.loginLogo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: absolute;
+  top: -50px;
+  left: calc(50% - 50px);
+}
+
+h1 {
+  margin: 0;
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 22px;
+	color: #d5d8dc;
+}
+
+.createLogin-box p {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+
+.createLogin-box input {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.createLogin-box input[type="text"],input[type="password"],input[type="email"] {
+  border: none;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+}
+
+.createLogin-box input[type="submit"] {
+  border: none;
+  border-radius: 20px;
+  outline: none;
+  height: 40px;
+  background: #2874a6;
+  color: #fff;
+  font-size: 18px;
+}
+
+.createLogin-box input[type="submit"]:hover {
+  cursor: pointer;
+  background: #39dc79;
+  color: #000;
+}
+
+.createLogin-box a {
+  color: #fff;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.createLogin-box a:hover {
+  color: #39dc79;
+}
+
+/* category page */
+.searchBox {
+	background: white;
+	position: absolute;
+	left: 35%;
+	top: 20%;
+	height: 20px;
+	border-radius: 40px;
+	padding: 10px;
+}
+
+.searchButton {
+	color: white;
+	float: right;
+	width: 40px;
+	height: 20px;
+	border-radius: 50%;
+	background: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.searchIcon {
+	height: 30px;
+	width: 30px;
+}
+
+.searchText {
+	border: none;
+	background: none;
+	color: #000000;
+	font-size: 14px;
+	outline: none;
+	float: left;
+	padding: 0;
+	text-align: center;
+	width: 300px;
+}
+
+.categoryContainer {
+  width: 1000px;
+  height: 390px;
+  background: rgba(0,0,0,.5);
+  color: #fff;
+  top: 65%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+  font-size: 12px;
+}
+
+.categoriesTitle {
+  position: relative;
+  font-size: 18px;
+  font-weight: bold;
+  top: 10%;
+}
+
+.categories ul {
+  margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+#productImg1 {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  float: left;
+  top: 10%;
+}
+
+#productText1 {
+  left: 15%;
+  position: absolute;
+  color: white;
+  top: 10%;
+}
+
+#productImg2 {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  top: 40%;
+  float: left;
+}
+
+#productText2 {
+  left: 15%;
+  position: absolute;
+  top: 40%;
+  color: white;
+}
+
+#productImg3 {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  top: 70%;
+  float: left;
+}
+
+#productText3 {
+  left: 15%;
+  position: absolute;
+  top: 70%;
+  color: white;
+}
+
+span {
+  position: absolute;
+  font-size: 14px;
+  text-align: left;
+  line-height: normal;
+}
+
+/* shopping cart icon */
+#cartIcon {
+	height: 60px;
+	width: 60px;
+	float: right;
+	position: fixed;
+	top: 10%;
+	right: 8%;
+}
+
+h3 {
+	color: black;
+  font-weight: normal;
+	position: absolute;
+	top: 2px;
+	right: 5%;
+}
+
+/* shopping cart page */
+.shoppingCartBox {
+  width: 800px;
+  height: 375px;
+  background: rgba(0,0,0,.5);
+  color: #fff;
+  top: 60%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+  padding: 70px 30px;
+}
+
+.shoppingCartTitle {
+  position: relative;
+  top: -20%;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/* individual product page */
+.productBox {
+  width: 800px;
+  height: 375px;
+  background: rgba(0,0,0,.5);
+  color: #fff;
+  top: 60%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+}
+
+.productTitle {
+  position: relative;
+  top: -20%;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.productInfo ul {
+  margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+/* beats headphones page */
+#beatsHeadphones {
+  position: relative;
+  height: 200px;
+  width: 200px;
+  float: left;
+  top: 10%;
+}
+
+#productTextCart {
+  position: relative;
+  float: left;
+  top: 10%;
+}
+
+/* canon camera page */
+#canonCamera {
+  position: relative;
+  height: 200px;
+  width: 200px;
+  float: left;
+  top: 10%;
+}
+
+/* red dead redemption 2 page */
+#RedDeadRedemption2 {
+  position: relative;
+  height: 200px;
+  width: 200px;
+  float: left;
+  top: 10%;
+}
+
+/* mission statement page */
+.missionBox {
+  width: 700px;
+  height: 315px;
+  background: rgba(0,0,0,.5);
+  color: #fff;
+  top: 60%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+}
+
+.missionStatement {
+  padding: 5%;
+}
+
+/* our team page */
+.ourTeamBox {
+  width: 700px;
+  height: 315px;
+  background: rgba(0,0,0,.5);
+  color: #fff;
+  top: 60%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+}
+
+.ourTeamStatement {
+  padding: 5%;
+}
+
+/* checkout page */
+.checkoutBox {
+  width: 400px;
+  height: 1200px;
+  background: rgba(0,0,0,.5);
+  color: #fff;
+  top: 130%;
+  left: 50%;
+  padding: 5%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+}

@@ -1,0 +1,182 @@
+Product Name: 
+Vendor: 
+Category: 
+Price: 
+Description: 
+Rating: 
+Reviews: 
+
+1. Canon Camera
+Product Name: Canon EOS Rebel SL2 DSLR Camera EF-S 18-55mm STM Lens - WiFi Enabled
+Vendor: Canon
+Category: Electronics
+Price: 649.00
+Description: 
+-24.2 Megapixel CMOS (APS-C) Sensor
+-Fast & Accurate Dual Pixel CMOS AF with Phase-detection
+-Vary-angle Touch Screen, 3.0-inch LCD
+-Built-in Wi-Fi, NFC and Bluetooth Technology
+-Full HD 60p & External Microphone Input
+Rating: (N/A atm can put any amount of stars out of 5 or something)
+Reviews: (blank atm) 
+
+2. Canon Printer
+Product Name: Canon PIXMA TR4520 Wireless All in One Photo Printer with Mobile Printing, Black
+Vendor: Canon
+Category: Electronics
+Price: 69.00
+Description:
+-With Wireless Connect and the Canon PRINT app, use your smartphone to quickly and easily set up your printer and print right from your smartphone or tablet.
+-With features like AirPrint, Mopria Print Service, Auto Power On/Off, a built-in ADF, and Wi-Fi - it's easy to see why PIXMA printers are so simple to use.
+-With IFTTT (IF This Then That) support, use various web services and applications to automate printing, and save time and hassle.
+-Connectivity Technology: USB. Printer Technology: Inkjet
+Rating: 
+Reviews: 
+
+3. Beats Headphones
+Product Name: Beats Noise Cancelling Over-Ear Studio3 Wireless Headphones The Skyline Collection - Crystal Blue (MTU02LL/A)
+Vendor: Beats
+Category: Electronics
+Price: 349.99
+Description:
+-Pair and play with your Bluetooth device with 30ft Range.
+-12-Hour Rechargeable battery with fuel gauge. Soft over ear cushions for extended comfort and added noise isolation
+-Soft ear Cups have an ergonomic bellow that creates a flexible custom fit, so you can keep your music all to yourself.
+-Headphones come with a Remote Talk cable, a USB 2.0 charging cable, a hard shell carrying case, quick Start Guide
+Rating: 
+Reviews: 
+
+4. Sony TV
+Product Name: Sony XBR85X900F 85-Inch 4K Ultra HD Smart LED TV (2018 Model) 
+Vendor: Sony
+Category: Electronics
+Price: 4998.00
+Description: 
+-BEYOND HIGH DEFINITION: 4K HDTV picture offers stunning clarity & high dynamic range color & detail
+-ENHANCED QUALITY: With the X1 Extreme Processor enjoy controlled contrast & wide range of brightness
+-PREMIUM DISPLAY: Enjoy vibrant colors with TRILUMINOS & clear on-screen action with X-Motion Clarity
+-VOICE COMPATIBILITY: 85in tv is compatible with Amazon Alexa & Google Home to change channels & more
+Rating: 
+Reviews: 
+
+5. Oral-B Toothbrush
+Product Name: Oral-B 7000 SmartSeries Rechargeable Power Electric Toothbrush with 3 Replacement Brush Heads, Bluetooth Connectivity and Travel Case, Black, Powered by Braun
+Vendor: Oral-B
+Category: Beauty & Health
+Price: 119.99
+Description: 
+-Real-time feedback with the Oral-B app focuses brushing on your most important areas, tracks habits over time, motivates with helpful oral care tips, and senses when you brush too hard
+-Made of different high-tech materials like silicon. Cross Action round brush head with perfectly angled bristles for a precise clean
+-Clinically proven superior 3D cleaning oscillates, rotates and pulsates to break up and remove up to 100% more plaque than a regular manual toothbrush
+Rating: 
+Reviews: 
+
+6. Gorgeous Make-up
+Product Name: Gorgeous Cosmetics Contour Palette, 8 shades, Compact with Mirror
+Vendor: Gorgeous Cosmetics
+Category: Beauty & Health
+Price: 45.00
+Description: 
+-Contains: Potato Cake – Matte cream, True Taupe – Matte cool brown, Matte Tan – Warm neutral brown, Dusk Rose – Matte warm rose , Nude – Matte peachy pink , Smudge – Matte brown taupe, Fudge – Deep warm brown Mocha – Matte mauve
+Rating: 
+Reviews: 
+
+7. downluxe Comforter set
+Product Name: downluxe Back to School Lightweight Solid Comforter Set (Twin) with 1 Pillow Sham - 2-Piece Set - Blue and Sapphire - Hypoallergenic Down Alternative Reversible Comforter
+Vendor: downluxe
+Category: Home & Kitchen
+Price: 29.99
+Description: 
+-Comforter set fabric content: 100-percent brushed Microfiber.Medium warmth for spring, summer and autumn.
+-Twin Size 2-Piece Down Alternative Comforter Set include 1 Reversible Comforter 66"x92" / 1 Reversible Pillow Sham 20" x 26" with a 2 inches flange
+-MACHINE WASHABLE - Machine wash in the gentle cycle with cold water, sun- dry or tumble dry on low when needed
+Rating: 
+Reviews: 
+
+8. Ariv Towels
+Product Name: Ariv Collection Premium Bamboo Cotton Bath Towels - Natural, Ultra Absorbent and Eco-Friendly 30" X 52" (Grey)
+Vendor: Ariv
+Category: Home & Kitchen
+Price: 24.99
+Description: 
+-30% Natural Bamboo 70% Natural Cotton
+Woven with a blend of High Quality Bamboo & Cotton for Softness, Absorbency, Strength, and Durability.
+Bamboo fiber is Mildew-resistant, Naturally Anti-bacterial, Anti-fungal, Odor Resistant, and Light-weight.
+Rating: 
+Reviews: 
+
+9. Infinity War Movie
+Product Name: AVENGERS: INFINITY WAR
+Vendor: Disney
+Category: Movies & TV
+Price: 22.99
+Description: 
+-Format: Blu-ray
+-Rating: PG-13
+Rating: 
+Reviews: 
+
+10. Your Name Movie
+Product Name: Your Name.
+Vendor: Funimation
+Category: Movies & TV
+Price: 17.99
+Description: 
+-Format: Blu-ray
+-Rating: PG
+Rating: 5
+Reviews: "Love Your Name!" - Elon Musk
+
+11. Red Dead 2 Game
+Product Name: Red Dead Redemption 2 - Xbox One
+Vendor: Rockstar
+Category: Video Games
+Price: 59.99
+Description: 
+-Platform: Xbox One
+-Developed by the creators of Grand Theft Auto V and Red Dead Redemption, Red Dead Redemption 2 is an epic tale of life in America’s unforgiving heartland. The game's vast and atmospheric world will also provide the foundation for a brand new online multiplayer experience.
+Rating: 
+Reviews:
+
+12. Okami Game
+Product Name: Okami HD - Playstation 4
+Vendor: Capcom
+Category: Video Games
+Price: 17.79
+Description: 
+-Platform: Playstation 4
+-Take on the role of Amaterasu, the Japanese sun goddess who inhabits the form of a legendary white wolf Shiranui on a quest to defeat Orochi who is responsible for turning the world into a wasteland
+-Players must use Amaterasu's magical abilities and arsenal of items, attacks and Celestial Brush techniques to restore the land of Nippon to its previous glory full of life and color.
+-Along the way, Amaterasu will be called upon to help a cast of quirky and intriguing characters and defeat a bevy of brutal enemies to rid the land of Orochi's curse.
+Rating: 
+Reviews:
+
+13. PacSun Sweatshirt
+Product Name: LA Hearts Colorblocked Half Zip Sweatshirt
+Vendor: PacSun
+Category: Clothing & Apparel
+Price: 34.95
+Description: 
+-Go for a preppy look this season with the Colorblocked Half Zip Sweatshirt by our very own LA Hearts. This classic pullover features a stand up collar with half zip front closure, long sleeves, smocked band, and a colorblocked desgn.
+Rating: 
+Reviews:
+
+14. PacSun Dress
+Product Name: Kendall & Kylie Belted Menswear Shift Dress
+Vendor: PacSun
+Category: Clothing & Apparel
+Price: 39.95
+Description: 
+-Elevate your casual style with the Belted Menswear Shift Dress by Kendall & Kylie. This mini dress comes in a plaid print and features adjustable straps, v-neckline, and faux belted waist.
+Rating: 
+Reviews:
+
+15. Omae Wa Hoodie
+Product Name: OMAE WA (UNISEX HOODIE)
+Vendor: Sugoi Shirts
+Category: Clothing & Apparel
+Price: 35.99
+Description: 
+Omae wa mou shindeiru. "You're already dead." Flip the hoodie over to the back and you'll see, "NANI!?" in bold text.
+Rating: 
+Reviews:
